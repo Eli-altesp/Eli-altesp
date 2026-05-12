@@ -1,15 +1,15 @@
 ## Hi I´m Elizabeth Altamirano! 👋
-
 🚀 About Me
-🎓 Background in Industrial Design and a Master’s Degree in Interactive & Digital Media, combining creativity, analytical thinking, and user-centered problem solving.
 
-📚 Currently completing the QA Engineer Bootcamp at TripleTen, with hands-on experience in Manual Testing, API Testing, UI/UX Validation, and Cross-Browser Testing.
+  🎓 Background in Industrial Design and a Master’s Degree in Interactive & Digital Media, combining creativity, analytical thinking,       and user-centered problem solving.
 
-💡 Transitioning into the tech industry with a strong focus on software quality, leveraging my hybrid profile as a bridge between design and development to improve digital user experiences.
+  📚 Currently completing the QA Engineer Bootcamp at TripleTen, with hands-on experience in Manual Testing, API Testing, UI/UX             Validation, and Cross-Browser Testing.
 
-🧩 Developing practical skills in REST API Testing, functional testing, bug reporting, responsive testing, and quality assurance methodologies using tools such as Postman, Jira, Chrome DevTools, and Figma.
+  💡 Transitioning into the tech industry with a strong focus on software quality, leveraging my hybrid profile as a bridge between         design and development to improve digital user experiences.
 
-🌍 Based in Dublin with advanced English proficiency (C1) and experience working in fast-paced international environments.
+  🧩 Developing practical skills in REST API Testing, functional testing, bug reporting, responsive testing, and quality assurance          methodologies using tools such as Postman, Jira, Chrome DevTools, and Figma.
+
+  🌍 Based in Dublin with advanced English proficiency (C1) and experience working in fast-paced international environments.
 <!--
 **Eli-altesp/Eli-altesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
