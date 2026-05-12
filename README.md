@@ -1,4 +1,4 @@
-### Hi I´m Elizabeth Altamirano! 👋
+# Hi I´m Elizabeth Altamirano! 👋
 ## 🚀 About Me
 
   🎓 Background in Industrial Design and a Master’s Degree in Interactive & Digital Media, combining creativity, analytical thinking,       and user-centered problem solving.
