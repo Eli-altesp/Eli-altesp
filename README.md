@@ -1,4 +1,8 @@
 # Hi I´m Elizabeth Altamirano! 👋
+
+Junior QA Engineer based in Dublin, Ireland, with a background in Digital Design and a strong focus on software quality, API testing, and UI/UX validation.
+
+I enjoy identifying inconsistencies, improving user experience, and ensuring reliable functionality across web applications and APIs.
 ## 🚀 About Me
 
   🎓 Background in Industrial Design and a Master’s Degree in Interactive & Digital Media, combining creativity, analytical thinking,       and user-centered problem solving.
